@@ -1,0 +1,12 @@
+.img-logo{
+    width: 350px;
+    height: 90px;
+    align-content: center;
+    align-items: center;
+}
+
+.alignment-center{
+    align-items: center;
+    align-self: center;
+    align-content: center;
+}
